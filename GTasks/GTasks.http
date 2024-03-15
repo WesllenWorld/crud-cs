@@ -1,0 +1,6 @@
+@GTasks_HostAddress = http://localhost:5174
+
+GET {{GTasks_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
